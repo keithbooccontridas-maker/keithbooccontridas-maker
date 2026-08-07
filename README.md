@@ -1,24 +1,51 @@
-# 👋 Hi, I'm Keith Contridas
+<h1 align="center">Hi 👋, I'm Keith Contridas</h1>
 
-## 🚀 Junior QA Automation Engineer
+<h3 align="center">
+Junior Test Automation Engineer | Java | Selenium | API Testing | TestNG | Maven
+</h3>
 
-I am passionate about software quality and automation testing.
+<p align="center">
+Building professional automation frameworks and continuously improving my QA automation skills.
+</p>
 
-Currently learning and building professional automation frameworks using Java and modern testing tools.
+---
+
+# 👨‍💻 About Me
+
+- 🌍 From the Philippines
+- 💻 Junior Test Automation Engineer
+- ☕ Learning Java and Software Testing
+- 🤖 Passionate about Selenium WebDriver
+- 🔥 Currently improving API Automation with Rest Assured
+- 📚 Learning CI/CD, Jenkins, Docker and SQL
+- 🎯 Goal: Become a Software Development Engineer in Test (SDET)
 
 ---
 
 # 🛠 Tech Stack
 
-- ☕ Java
-- 🌐 Selenium WebDriver
-- 🧪 TestNG
-- 📦 Maven
-- 🔗 REST Assured
-- 🐙 Git & GitHub
-- ⚙️ Jenkins
-- 🗄 SQL
-- 🎭 Playwright (Learning)
+### Languages
+
+- Java
+
+### Automation
+
+- Selenium WebDriver
+- TestNG
+- Maven
+
+### API Testing
+
+- Postman
+- Rest Assured
+
+### Tools
+
+- Git
+- GitHub
+- IntelliJ IDEA
+- Eclipse
+- Jira
 
 ---
 
@@ -26,40 +53,50 @@ Currently learning and building professional automation frameworks using Java an
 
 ## Selenium Automation Framework
 
-Professional Selenium automation framework using:
+Professional Selenium Page Object Model Framework
 
-- Java
-- TestNG
-- Maven
-- Page Object Model
-- Extent Reports
-- Log4j2
-- Jenkins
-
-🔗 Repository:
-https://github.com/keithbooccontridas-maker/selenium-the-internet-automation-framework
+🔗 https://github.com/keithbooccontridas-maker/selenium-the-internet-automation-framework
 
 ---
 
-## REST Assured API Framework
+## Trello API Automation Framework
 
-(Currently Building)
+REST Assured Automation Project
 
----
-
-# 📚 Currently Learning
-
-- Docker
-- CI/CD
-- Playwright
-- Advanced Selenium
+(Add your repository here later)
 
 ---
 
-# 🎯 Goal
+# 📈 GitHub Stats
 
-Become a professional Software Development Engineer in Test (SDET).
+![Keith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keithbooccontridas-maker&show_icons=true)
 
 ---
 
-⭐ Thank you for visiting my profile!
+# 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keithbooccontridas-maker&layout=compact)
+
+---
+
+# 📫 Connect with Me
+
+GitHub
+
+https://github.com/keithbooccontridas-maker
+
+LinkedIn
+
+(Add your LinkedIn later)
+
+Email
+
+(Add your professional email)
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>
