@@ -1,16 +1,65 @@
-## Hi there 👋
+# 👋 Hi, I'm Keith Contridas
 
-<!--
-**keithbooccontridas-maker/keithbooccontridas-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Junior QA Automation Engineer
 
-Here are some ideas to get you started:
+I am passionate about software quality and automation testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building professional automation frameworks using Java and modern testing tools.
+
+---
+
+# 🛠 Tech Stack
+
+- ☕ Java
+- 🌐 Selenium WebDriver
+- 🧪 TestNG
+- 📦 Maven
+- 🔗 REST Assured
+- 🐙 Git & GitHub
+- ⚙️ Jenkins
+- 🗄 SQL
+- 🎭 Playwright (Learning)
+
+---
+
+# 📂 Featured Projects
+
+## Selenium Automation Framework
+
+Professional Selenium automation framework using:
+
+- Java
+- TestNG
+- Maven
+- Page Object Model
+- Extent Reports
+- Log4j2
+- Jenkins
+
+🔗 Repository:
+https://github.com/keithbooccontridas-maker/selenium-the-internet-automation-framework
+
+---
+
+## REST Assured API Framework
+
+(Currently Building)
+
+---
+
+# 📚 Currently Learning
+
+- Docker
+- CI/CD
+- Playwright
+- Advanced Selenium
+
+---
+
+# 🎯 Goal
+
+Become a professional Software Development Engineer in Test (SDET).
+
+---
+
+⭐ Thank you for visiting my profile!
