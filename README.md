@@ -50,17 +50,17 @@ Focused on Java, Selenium, REST Assured, and continuous improvement in quality e
 **🔹 Selenium Automation Framework**  
 Professional UI Automation Framework built with Java, Selenium, TestNG, Maven, Page Object Model, Explicit Waits, Log4j2, and Extent Reports.  
 
-🔗 [View Repository](https://github.com/keithboocontridas-maker/selenium-the-internet-automation-framework)
+🔗 [View Repository](https://github.com/keithbooccontridas-maker/selenium-the-internet-automation-framework.git)
 
 **🔹 GitHub REST API Test Automation**  
 API Test Automation covering CRUD operations and negative test scenarios using Java, REST Assured, and TestNG.  
 
-🔗 [View Repository](https://github.com/keithboocontridas-maker/GithubRestAssured)
+🔗 [View Repository](https://github.com/keithbooccontridas-maker/GithubRestAssured.git)
 
 **🔹 Trello API Automation**  
 API Automation framework for Trello using REST Assured + TestNG.  
 
-🔗 [View Repository](https://github.com/keithboocontridas-maker/TrelloRestAssured)
+🔗 [View Repository]
 
 ---
 
