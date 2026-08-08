@@ -1,6 +1,7 @@
+
 <!-- ========================= BANNER ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Keith%20Contridas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDET%20%7C%20Test%20Automation%20Engineer%20%7C%20Java%20%7C%20Selenium%20%7C%20REST%20Assured&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f64f59&height=220&section=header&text=Keith%20Contridas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SDET%20%7C%20Test%20Automation%20Engineer%20%7C%20Java%20%7C%20Selenium%20%7C%20REST%20Assured&descAlignY=58" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Keith Contridas</h1>
@@ -64,11 +65,11 @@ API Automation framework for Trello using REST Assured + TestNG.
 ---
 
 ### 📚 Currently Learning
-- Advanced Selenium Framework Design
-- REST Assured Best Practices
-- CI/CD with Jenkins & GitHub Actions
-- SQL for Testers
-- Test Design Patterns & Maintainability
+- Building scalable and maintainable automation frameworks
+- Integrating automated tests into CI/CD pipelines
+- Advanced REST Assured techniques
+- Test reporting and logging best practices
+- Exploring Playwright as an additional tool
 
 ---
 
@@ -78,7 +79,7 @@ To become a skilled **Software Development Engineer in Test (SDET)** specializin
 ---
 
 ### 📫 Connect With Me
-- GitHub: [keithboocontridas-maker](https://github.com/keithboocontridas-maker)
+- GitHub: [keithbooccontridas-maker](https://github.com/keithbooccontridas-maker)
 - Email: keithbooccontridas@gmail.com
 
 ---
