@@ -26,13 +26,7 @@ Passionate about building reliable test automation frameworks and continuously l
 - 💼 Aspiring Software Development Engineer in Test (SDET)
 - ☕ Java Automation Engineer
 - 🤖 Passionate about Selenium WebDriver
-- 🌐 Learning API Automation with REST Assured
-- 📚 Currently studying
-  - Playwright
-  - Docker
-  - Jenkins
-  - SQL
-  - CI/CD
+- 🌐 Learning API Automation with REST Assured and Selenium Automation
 - 🎯 Goal: Build enterprise-level automation frameworks
 
 ---
@@ -92,7 +86,7 @@ Professional Selenium WebDriver Framework built with
 🔗 Repository
 
 https://github.com/keithbooccontridas-maker/selenium-the-internet-automation-framework
-
+https://github.com/keithbooccontridas-maker/GithubRestAssured.git
 ---
 
 ## 🚀 REST Assured API Framework
@@ -142,15 +136,29 @@ Coming Soon
 
 ✅ REST Assured API Automation
 
-✅ Playwright
+✅ Git
 
-✅ Docker
+✅ GitHub
 
-✅ Jenkins
+✅ TestNG
 
 ✅ SQL
 
-✅ CI/CD
+✅ Maven
+
+✅ Manual Testing
+
+✅ Jira
+
+✅ JAVA
+
+✅ HTML
+
+✅ CSS
+
+✅ Maven
+
+
 
 ---
 
@@ -166,13 +174,10 @@ GitHub
 
 https://github.com/keithbooccontridas-maker
 
-LinkedIn
-
-(Add your LinkedIn profile)
 
 Email
 
-(Add your professional email)
+(keithbooccontridas@gmail.com)
 
 ---
 
