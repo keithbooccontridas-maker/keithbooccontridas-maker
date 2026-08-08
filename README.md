@@ -26,7 +26,7 @@ Passionate about building reliable test automation frameworks and continuously l
 - 💼 Aspiring Software Development Engineer in Test (SDET)
 - ☕ Java Automation Engineer
 - 🤖 Passionate about Selenium WebDriver
-- 🌐 Learning API Automation with REST Assured and Selenium Automation
+- 🌐 Learning API Automation with REST Assured 
 - 🎯 Goal: Build enterprise-level automation frameworks
 
 ---
@@ -86,7 +86,7 @@ Professional Selenium WebDriver Framework built with
 🔗 Repository
 
 https://github.com/keithbooccontridas-maker/selenium-the-internet-automation-framework
-https://github.com/keithbooccontridas-maker/GithubRestAssured.git
+
 ---
 
 ## 🚀 REST Assured API Framework
@@ -98,35 +98,9 @@ Professional API Automation Framework
 - TestNG
 - Maven
 
-(Coming Soon)
-
----
-
-## 🚀 Playwright Automation Framework
-
-Coming Soon
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=keithbooccontridas-maker&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keithbooccontridas-maker&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=keithbooccontridas-maker&theme=tokyonight"/>
-
-</p>
+🔗 Repository
+  
+https://github.com/keithbooccontridas-maker/GithubRestAssured.git
 
 ---
 
@@ -148,6 +122,8 @@ Coming Soon
 
 ✅ Manual Testing
 
+✅ Automation Testing
+
 ✅ Jira
 
 ✅ JAVA
@@ -156,15 +132,15 @@ Coming Soon
 
 ✅ CSS
 
-✅ Maven
+✅ Jenkins
 
+✅ CI/CD
 
 
 ---
 
 # 🎯 Career Goal
-
-Become a professional **Software Development Engineer in Test (SDET)** specializing in enterprise automation frameworks, API testing, CI/CD, and cloud-based testing.
+To become a skilled **Software Development Engineer in Test (SDET)** specializing in building scalable automation frameworks, API testing, CI/CD integration, and high-quality test infrastructure for modern applications.
 
 ---
 
@@ -183,7 +159,9 @@ Email
 
 <p align="center">
 
-⭐ If you like my projects, feel free to star them!
+### ⭐ Support My Work
+If you find my projects helpful or interesting, feel free to ⭐ star them!  
+It really motivates me to keep building and sharing more.
 
 </p>
 
