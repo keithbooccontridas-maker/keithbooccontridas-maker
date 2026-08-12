@@ -81,6 +81,7 @@ To become a skilled **Software Development Engineer in Test (SDET)** specializin
 ### 📫 Connect With Me
 - GitHub: [keithbooccontridas-maker](https://github.com/keithbooccontridas-maker)
 - Email: keithbooccontridas@gmail.com
+- Linkedln: www.linkedin.com/in/keith-contridas
 
 ---
 
