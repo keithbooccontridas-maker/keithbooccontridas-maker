@@ -87,6 +87,11 @@ API Automation framework for Trello using REST Assured + TestNG.
 
 🔗 [View Repository](https://github.com/keithbooccontridas-maker/TrelloRestAssured)
 
+**🔹 BDD Cucumber Test Automation Framework**
+BDD UI Test Automation framework for ParaBank (login, open account, transfer funds) built with Java, Selenium, Cucumber, TestNG, Maven, Page Object Model, PicoContainer, Extent Reports, and GitHub Actions CI.
+
+🔗 [View Repository](https://github.com/keithbooccontridas-maker/BDDCucumberFramework)
+
 ---
 
 ### 🎓 Certifications & Courses
